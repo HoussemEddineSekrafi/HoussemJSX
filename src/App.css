@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.title-red {
+  background-color: rgb(212, 124, 124);
+  font-size: calc(20px + 2vmin);
+  justify-content: center;
+}
